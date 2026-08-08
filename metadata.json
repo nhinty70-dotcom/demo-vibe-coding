@@ -1,0 +1,6 @@
+{
+  "name": "Phòng Thí Nghiệm Hóa Học Ảo - Axit, Bazơ & Chỉ Thị",
+  "description": "Mô phỏng thí nghiệm Hóa học tương tác lớp 8–9 về chủ đề Axit, Bazơ và Chỉ thị với phòng thí nghiệm tự do, dung dịch bí ẩn, thang pH và thử thách.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
